@@ -2,6 +2,8 @@
 
 RCC Agents is a research prototype for **Role-Conditioned Communication (RCC)**, a modular multi-agent LLM framework for clinician-in-the-loop clinical decision support.
 
+In plain language, this project is **not** designed to judge whether a doctor is right or wrong. It takes a medical question or case-style problem, lets multiple AI agent roles analyze it from different angles, and produces an auxiliary answer with supporting evidence, risk flags, and an audit trail.
+
 The project asks a focused research question:
 
 > If medical LLM agents are required to communicate through role-specific, evidence-aware, risk-aware messages, can the final answer become easier to audit, safer to review, and more suitable for clinical decision-support settings?
