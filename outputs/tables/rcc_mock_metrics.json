@@ -1,0 +1,8 @@
+{
+  "num_cases": 1,
+  "accuracy": 1.0,
+  "evidence_support_proxy": 1.0,
+  "escalation_rate": 1.0,
+  "audit_trace_completeness": 1.0,
+  "avg_latency_sec": 0.00020299999999995322
+}

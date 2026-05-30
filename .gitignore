@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and editor state
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.idea/
+
+# External baseline checkout. See BASELINE_SETUP.md for setup notes.
+baselines/MDAgents/
+
+# Large or regenerated experiment artifacts can be added here later.
